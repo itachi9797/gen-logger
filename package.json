@@ -1,0 +1,14 @@
+{
+  "name": "gen-logger",
+  "version": "1.0.1",
+  "description": "A logger utility with customizable log types.",
+  "main": "src/index.js",
+  "author": "itachi9797",
+  "repository": {
+    "url": "https://github.com/itachi9797/gen-logger"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "signale": "^1.4.0"
+  }
+}
