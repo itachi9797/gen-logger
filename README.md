@@ -1,8 +1,8 @@
-# Key Logger
+# Gen Logger
 
 [![npm version](https://badge.fury.io/js/gen-logger.svg)](https://badge.fury.io/js/gen-logger)
 
-Unlock the power of customizable logging with Key Logger! This lightweight utility empowers developers to take control of their logs, offering dynamic options, customizable log types, and a sleek interface.
+Unlock the power of customizable logging with Gen Logger! This lightweight utility empowers developers to take control of their logs, offering dynamic options, customizable log types, and a sleek interface.
 
 ## Features
 
